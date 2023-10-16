@@ -10,5 +10,7 @@ max_val= x if x>y else y
 print(max_val)
 
 age =  input("enter your age")
-age int(age)
-result = yes if age>18 else
+age = int(age)
+
+result  = "Yes" if age > 18 else "No"
+print(result)

@@ -1,7 +1,7 @@
-#Logical operator
-#AND
-# OR
-# NOT
+#Logical Operators:
+# and Logical AND
+# or Logical OR
+# not Logical NOT
 
 p= True
 q= False
