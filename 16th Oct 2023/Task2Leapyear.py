@@ -6,7 +6,10 @@ Output = Leap year
 """
 
 year = int(input("Enter the Year: \n"))
-if (year % 4 == 0 and year % 100 != 0 or year % 400 == 0):
-    print("This is a Leap year !")
+if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
+    #print("This is a Leap year !")
+    print(f"{year} is leap year !")
 else:
-    print("This is not a Leap year!")
+    #print("This is not a Leap year!")
+    print(f"{year} is not leap year !")
+
