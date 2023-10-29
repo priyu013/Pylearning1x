@@ -1,0 +1,1 @@
+#Write a Python program to sum all numbers in a list.
