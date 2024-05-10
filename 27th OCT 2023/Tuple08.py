@@ -7,7 +7,7 @@ print(out)
 
 def fun2():
     name = "priya"
-    name
+
 
 out1 = fun2()
 print(out1)
